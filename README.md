@@ -89,7 +89,3 @@ The **HTTP/2 Rapid Reset Attack** exploits vulnerabilities within the HTTP/2 pro
 
 6. **Summary Printing:**
    - Upon completion of all requests, the program prints a summary that includes the number of sent and received frames, total execution time, and requests per second metric.
-
----
-
-This documentation provides an overview of HTTP/2, its key features, and how the HTTP/2 Rapid Reset Attack works. It also outlines the functionalities of the demonstration program used to illustrate the attack.
